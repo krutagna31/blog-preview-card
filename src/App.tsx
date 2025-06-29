@@ -15,7 +15,14 @@ function App() {
           <p className="mt-2 text-xs font-medium text-gray-950">
             Published 21 Dec 2023
           </p>
-          <h1 className="text-2xl font-extrabold">HTML & CSS foundations</h1>
+          <h1>
+            <a
+              href="#"
+              className="text-2xl font-extrabold transition duration-300 hover:text-yellow-300"
+            >
+              HTML & CSS foundations
+            </a>
+          </h1>
           <p className="font-medium text-gray-500">
             These languages are the backbone of every website, defining
             structure, content, and presentation

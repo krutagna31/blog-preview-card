@@ -1,3 +1,41 @@
-## React ShadCN Template
+# Frontend Mentor - Blog preview card solution
 
-This is a template template for building project using React, TypeScript, Tailwind CSS, and ShadCN/UI
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+### Screenshot
+
+![](./screenshot.jpg)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- React
+- Typscript
+- Tailwind CSS
+
+### What I learned
+
+When we are using an image just for decoration, then we can set the alt text as an empty string & set aria-hidden to true for improving the accessibility.
+
+## Author
+
+- Frontend Mentor - [@krutagna10](https://www.frontendmentor.io/profile/krutagna10)
