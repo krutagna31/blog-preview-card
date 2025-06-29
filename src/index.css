@@ -5,7 +5,7 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --font-josefin: "Josefin Sans", serif;
+  --font-figtree: "Figtree", sans-serif;
 }
 
 :root {
@@ -99,6 +99,6 @@
     @apply border-border outline-ring/50;
   }
   body {
-    @apply bg-background text-foreground font-josefin;
+    @apply text-foreground font-figtree grid h-screen place-content-center bg-yellow-300;
   }
 }
