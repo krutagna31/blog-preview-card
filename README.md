@@ -1,41 +1,47 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Blog Preview Card
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
+This is a solution to the [blog preview card challenge on frontend mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Getting Started](#getting-started)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Installing Dependencies](#installing-dependencies)
+  - [Running the Development Server](#running-the-development-server)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-### Screenshot
-
-![](./screenshot.jpg)
+## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-nj35l4G4T1](https://www.frontendmentor.io/solutions/blog-preview-card-nj35l4G4T1)
 
-## My process
+## Getting Started
 
-### Built with
+Follow these steps to get a copy of the project up and running on your local machine.
 
-- React
-- Typscript
-- Tailwind CSS
+### Cloning the repository
 
-### What I learned
+```sh
+git clone https://github.com/krutagna31/blog-preview-card.git
+```
 
-When we are using an image just for decoration, then we can set the alt text as an empty string & set aria-hidden to true for improving the accessibility.
+### Installing dependencies
+
+```sh
+cd blog-preview-card
+npm install
+```
+
+### Running the development server
+
+```sh
+npm run dev
+```
 
 ## Author
 
-- Frontend Mentor - [@krutagna10](https://www.frontendmentor.io/profile/krutagna10)
+- Website - [Krutagna Patel](https://flowcv.me/krutagna-patel)
+- Frontend Mentor - [@krutagna31](https://www.frontendmentor.io/profile/krutagna31)
